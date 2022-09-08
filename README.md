@@ -2,7 +2,7 @@
 A python script that automatically compiles and runs C code using gcc.
 
 # Compatibility
-Designed for Linux terminal.
+Designed for Linux terminal. Not tested on other platforms.
 
 # Usage
 `python3 cfc.py [argument]`
