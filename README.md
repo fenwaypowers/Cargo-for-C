@@ -1,5 +1,8 @@
 # Cargo-for-C
-A python script that automatically compiles and runs C code.
+A python script that automatically compiles and runs C code using gcc.
+
+# Compatibility
+Designed for Linux terminal.
 
 # Usage
 `python3 cfc.py [argument]`
