@@ -22,7 +22,7 @@ Steps to using CFC:
 3. run `python3 cfc.py create`
 4. run `python3 cfc.py build` or `python3 cfc.py run`
 5. edit your source files
-6. repeat step 4-6.
+6. repeat steps 4-6.
 
 Warning:
 * the file path where cfc.py is located must NOT have ANY spaces in it.
